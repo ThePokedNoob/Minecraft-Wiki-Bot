@@ -4,7 +4,8 @@ pyautogui
 pydirectinput
 wikipediaapi
 
-with pip. Type these commands individually in command prompt with pip installed to install the libraries:
+
+Type these commands individually in command prompt with pip installed to install the libraries:
 
 pip install pyautogui
 pip install pydirectinput
